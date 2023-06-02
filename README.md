@@ -21,6 +21,13 @@
 
 </span>
 
+<div align="center">
+<h1>ɢɪᴛʜᴜʙ</h1>
+
+-
+
+[![SNISS GitHub stats](https://github-readme-stats.vercel.app/api?username=slayerkk)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slayerkk&layout=compact&langs_count=7&theme=cobalt")
 
 <div align="center">
  <h1>ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇs</h1>
