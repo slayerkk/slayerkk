@@ -27,6 +27,7 @@
 <img src="https://cdn.discordapp.com/attachments/1102636240911749241/1102637677473443840/Python-logo-notext.svg.png" width="150px" />
 <img src="https://cdn.discordapp.com/attachments/1102636240911749241/1102638891678314616/Unofficial_JavaScript_logo_2.svg.png" width="156px" />
 <img src="https://cdn.discordapp.com/attachments/1102636240911749241/1102638548315816047/Gnu-bash-logo.svg.png" width="350px" />
+<img src="https://cdn.discordapp.com/attachments/1000154460808556675/1114164730320408718/node.png" width="350px" />
 </div>
 
 <span align="center"> 
