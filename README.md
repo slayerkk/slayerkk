@@ -14,6 +14,7 @@
 
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1102636240911749241/1102640832626049024/static_1.png" width="1000px" />
+[![slayerkk GitHub stats](https://github-readme-stats.vercel.app/api?username=SNISS)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
