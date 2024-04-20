@@ -37,6 +37,8 @@ I'm an enthusiast in the field; I'm just an amateur. Take a look at my projects.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="156px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="165px" />
 <img src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" width="165px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="160px" />
+<img src="https://cdn-icons-png.flaticon.com/256/919/919830.png" width="160px" />
 </div>
 
 <span align="center"> 
@@ -75,11 +77,4 @@ I'm an enthusiast in the field; I'm just an amateur. Take a look at my projects.
 
 
 <div align="center">
-<h1>sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ</h1>
-<a href="https://www.instagram.com/slayerkkk_/" target="_blank">
-  <img src="https://cdn.discordapp.com/attachments/1000154460808556675/1089642850469294090/IMG_1953.png" width="100px">
-</a>
-<a href="https://discord.com/channels/@me/1000154460808556675" target="_blank">
-  <img src="https://cdn.discordapp.com/attachments/1000154460808556675/1096626780191850496/discord-logo-1-1.png" width="100px">
-</a>
 </div>
